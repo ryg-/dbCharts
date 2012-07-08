@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/26764/trunk/hudson/plugins/dbCharts/src/main/resources/hudson/plugins/dbcharts/CustomJDBCConnection
+END
+config.jelly
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/21899/trunk/hudson/plugins/dbCharts/src/main/resources/hudson/plugins/dbcharts/CustomJDBCConnection/config.jelly
+END
+config_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/26764/trunk/hudson/plugins/dbCharts/src/main/resources/hudson/plugins/dbcharts/CustomJDBCConnection/config_ru.properties
+END

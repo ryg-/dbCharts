@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/38135/trunk/hudson/plugins/dbCharts/src/main/java/hudson/plugins/dbcharts
+END
+CustomJDBCConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/21899/trunk/hudson/plugins/dbCharts/src/main/java/hudson/plugins/dbcharts/CustomJDBCConnection.java
+END
+Chart.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28684/trunk/hudson/plugins/dbCharts/src/main/java/hudson/plugins/dbcharts/Chart.java
+END
+JDBCConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/21899/trunk/hudson/plugins/dbCharts/src/main/java/hudson/plugins/dbcharts/JDBCConnection.java
+END
+DbChartAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/21917/trunk/hudson/plugins/dbCharts/src/main/java/hudson/plugins/dbcharts/DbChartAction.java
+END
+DbChartPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/38135/trunk/hudson/plugins/dbCharts/src/main/java/hudson/plugins/dbcharts/DbChartPublisher.java
+END
+PostgresqlJDBCConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/21899/trunk/hudson/plugins/dbCharts/src/main/java/hudson/plugins/dbcharts/PostgresqlJDBCConnection.java
+END
+MySQLJDBCConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/21899/trunk/hudson/plugins/dbCharts/src/main/java/hudson/plugins/dbcharts/MySQLJDBCConnection.java
+END

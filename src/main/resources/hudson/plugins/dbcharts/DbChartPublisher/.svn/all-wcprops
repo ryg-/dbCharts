@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28684/trunk/hudson/plugins/dbCharts/src/main/resources/hudson/plugins/dbcharts/DbChartPublisher
+END
+global.jelly
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28684/trunk/hudson/plugins/dbCharts/src/main/resources/hudson/plugins/dbcharts/DbChartPublisher/global.jelly
+END
+global_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/26764/trunk/hudson/plugins/dbCharts/src/main/resources/hudson/plugins/dbcharts/DbChartPublisher/global_ru.properties
+END
+config.jelly
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28684/trunk/hudson/plugins/dbCharts/src/main/resources/hudson/plugins/dbcharts/DbChartPublisher/config.jelly
+END
